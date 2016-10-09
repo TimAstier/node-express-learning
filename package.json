@@ -1,0 +1,24 @@
+{
+  "name": "node-express-learning",
+  "version": "1.0.0",
+  "description": "I use this repository to practise what I learn in this book: \"Web Development with Node and Express by Ethan Brown (O'Reilly). Copyright 2014 Ethan Brown, 978-1-491-94930-6.\"",
+  "main": "meadowlark.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimAstier/node-express-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimAstier/node-express-learning/issues"
+  },
+  "homepage": "https://github.com/TimAstier/node-express-learning#readme"
+}
